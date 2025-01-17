@@ -7,7 +7,8 @@ Created on Fri Jan 17 09:29:46 2025
 
 # Script para imprimir "Hello, World!" en la consola
 def main():
-    print("Hello, World!")
+    print("bonjour,tous le monde")
 
 if __name__ == "__main__":
-    main()
+    main() 
+  
